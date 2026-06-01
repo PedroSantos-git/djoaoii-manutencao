@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 70">
+  <path d="M5 55 Q30 45 50 55 Q75 65 95 55 Q75 75 50 65 Q25 75 5 55 Z" fill="#008ed6"/> <!-- Wave -->
+  <path d="M25 50 L75 50 L80 40 L20 40 Z" fill="#008ed6"/> <!-- Hull -->
+  <path d="M35 38 L35 15 Q45 15 50 25 L50 38 Z" fill="#008ed6"/> <!-- Main Sail -->
+  <path d="M55 38 L55 20 Q62 20 65 28 L65 38 Z" fill="#008ed6"/> <!-- Second Sail -->
+  <path d="M70 38 L70 25 Q75 25 78 30 L78 38 Z" fill="#008ed6"/> <!-- Third Sail -->
+  <path d="M22 38 L22 30 Q28 30 30 35 L30 38 Z" fill="#008ed6"/> <!-- Front Sail -->
+</svg>
